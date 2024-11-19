@@ -3,13 +3,22 @@ Terraform manages infrastructure on cloud computing providers such as AWS, Azure
 In this tutorial, you will use a Terraform data source to search Spotify for an artist, album, or song, and use that data to build a playlist.
 
 Prerequisites
-To complete this tutorial, you will need:
+To complete this Project, you will need:
 
 1.Terraform version 1.0+
 
 2.Docker Desktop
 
 3.Spotify account with developer access
+
+Topics you will cover:
+
+1. Providers: 
+2. Resource
+3. Variable
+4. Tfstate File
+5. Tfvars
+6. Tfstate.backup file
 
 
 ![tf7](https://github.com/user-attachments/assets/fc71a9c0-571c-472f-b515-d83d23bb279f)
