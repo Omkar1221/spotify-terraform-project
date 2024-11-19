@@ -5,6 +5,8 @@ In this tutorial, you will use a Terraform data source to search Spotify for an 
 Prerequisites
 To complete this tutorial, you will need:
 
-Terraform version 1.0+
-Docker Desktop
-Spotify account with developer access
+1.Terraform version 1.0+
+
+2.Docker Desktop
+
+3.Spotify account with developer access
